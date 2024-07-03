@@ -32,6 +32,7 @@ En cas de perte réel nous allons sauvegarder le JSON contenant tous ce que l'on
 - Dans le menu d'option en haut à droite sélectionnez "Export" (1)
 - Dans la nouvelle fenètre, selectionnez "all flows" (2) puis "Download" (3)
 - Le fichier téléchargé comprends tous vos flows de ce serveur, vous pourrez utiliser le menu "import" pour l'ajouter à n'importe quel autre serveur node-red
+
 ![alt](./images/export1.png) ![alt](./images/export2.png)
 
 ### Vérifier que le container a bien un volume attitré (docker)
